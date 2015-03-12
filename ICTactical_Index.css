@@ -47,9 +47,44 @@
 .ICTactical_logo {
     display: block;
     background-color:none;
-    margin-right:auto;
+    margin-right: auto;
     margin-left: auto;  
     margin-top: 60px;
     width: auto;
     height: auto;
 }
+section {
+    background-color:#c5c2cc;
+    opacity: 0.5;
+    width:auto;
+    border: 2px solid #3f3e41;
+    margin-left: 250px;
+    margin-right: 250px;
+    padding-top: 50px;
+    height: 250px;
+
+
+    
+}
+nav {
+    background-color:pink;
+    opacity:1;
+    height:250px;
+    width:auto;
+    text-align:center;
+    margin-top:-85px;
+    
+
+    
+
+}
+nav div {
+    display:inline;
+    text-align: center;
+    margin-left:70px;
+    margin-right:70px;
+}
+
+
+
+
